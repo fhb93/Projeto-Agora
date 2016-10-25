@@ -4,7 +4,7 @@
 // echo "cookie set";
 // echo "who".$_COOKIE[0];
 // echo " value".$_COOKIE[1];
-
+include("Main.html");
 
 ?>
 
