@@ -78,7 +78,7 @@ header h1 {
 	width: 350px;
 	height: 130px;
 	float: left;
-
+	position: relative;
 	text-indent: 100%;
 	white-space: nowrap;
 	overflow: hidden;
