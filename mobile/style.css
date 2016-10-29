@@ -1,0 +1,44 @@
+html {
+	margin: 0;
+	padding: 0;
+}
+body { 
+	font: 75% georgia, sans-serif;
+	line-height: 1.88889;
+	color: #704214; 
+	background: #ffffff url(Background2.png) no-repeat bottom;/*#C8AD7F*/
+	background-size: 100% 100%;  
+	margin: 0; 
+	padding: 0;
+}
+p { 
+	margin-top: 0; 
+	text-align: justify;
+}
+header {
+	padding-top: 20px;
+	height: 87px;
+}
+.preamble {
+	clear: right; 
+	font:  16pt georgia; 
+	padding: 1px 30px 10px 450px;
+	}
+
+header h1 { 
+	background: transparent url(H1.png) no-repeat top left;
+	background-size: 100%;
+	margin-top: 10px;
+	margin-left: 510px;
+	display: inline-block;
+	width: 350px;
+	height: 130px;
+	position: relative;
+	/*float: left;*/
+	/*max-width: 100%;*/
+    /*height: auto;*/
+
+	text-indent: 100%;
+	white-space: nowrap;
+	overflow: hidden;
+}
