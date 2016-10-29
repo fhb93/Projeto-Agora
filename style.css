@@ -74,11 +74,12 @@ header h1 {
 	background-size: 100%;
 	margin-top: 10px;
 	margin-left: 510px;
-	display: block;
+/*	display: block;*/
+	resize: initial;
 	width: 350px;
 	height: 130px;
 	float: left;
-
+	position: relative;
 	text-indent: 100%;
 	white-space: nowrap;
 	overflow: hidden;
@@ -88,6 +89,7 @@ header h2 {
 	background-size: 55%; 
 	/*margin-top: 58px; 
 	margin-bottom: 40px;*/
+	resize: initial;
 	margin-right: 220px ; 
 	margin-top: -10px; 
 	width: 653px; 
