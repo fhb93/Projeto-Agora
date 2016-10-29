@@ -31,6 +31,7 @@ header {
 	}
 .preamble {
     background: transparent;
+    text-anchor: middle;
 	clear: right; 
 	font:  25pt georgia; 
 	padding: 8px 5px 5px 5px;
@@ -55,23 +56,6 @@ header h1 {
 	overflow: hidden;
 }
 
-header h1 { 
-	background: transparent url(H1_mobile.png) no-repeat top left;
-	background-size: 100%;
-	margin-top: 10px;
-	margin-left: 510px;
-	display: inline-block;
-	width: 350px;
-	height: 130px;
-	position: relative;
-	/*float: left;*/
-	/*max-width: 100%;*/
-    /*height: auto;*/
-
-	text-indent: 100%;
-	white-space: nowrap;
-	overflow: hidden;
-	}
     .extra1 {
 	background: url(socrates.png) top left no-repeat;
 	background-size: 120%;  
