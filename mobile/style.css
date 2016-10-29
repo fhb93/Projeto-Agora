@@ -20,6 +20,7 @@ header {
 	height: 87px;
 }
 .preamble {
+    background: transparent;
 	clear: right; 
 	font:  16pt georgia; 
 	padding: 1px 30px 10px 450px;
