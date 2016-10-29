@@ -23,7 +23,7 @@ header {
 	clear: both; 
 	margin: 200px 20px 20px 60px; 
 	width: 160px; 
-	float: left;
+	float:  center;
 	}
 .summary p {
 	font: italic 18pt georgia; 
@@ -34,6 +34,7 @@ header {
 	clear: right; 
 	font:  25pt georgia; 
 	padding: 8px 5px 5px 5px;
+    float: center;
 	}
 
 header h1 { 
