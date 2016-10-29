@@ -71,6 +71,16 @@ header h1 {
 	white-space: nowrap;
 	overflow: hidden;
 	}
+    .extra1 {
+	background: url(socrates.png) top left no-repeat;
+	background-size: 120%;  
+	position: absolute; 
+	top: 0px; 
+	right: 8px; 
+	width: 150px; 
+	height: 260px;
+	}
+	
 /*header h2 { 
 	background: url(MadeIn.png) no-repeat top right;
 	background-size: 55%; 
