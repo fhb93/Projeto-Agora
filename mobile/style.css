@@ -42,9 +42,9 @@ header h1 {
 	background: transparent url(H1_mobile.png) no-repeat top center;
 	background-size: 100%;
 	margin-top: 10px;
-	margin-left: 310px;
+	margin-left: 210px;
 	display: inline-block;
-	width: 350px;
+	width: 210px;
 	height: 130px;
 	position: relative;
 	/*float: left;*/
