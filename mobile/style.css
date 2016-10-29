@@ -32,8 +32,8 @@ header {
 .preamble {
     background: transparent;
 	clear: right; 
-	font:  16pt georgia; 
-	padding: 1px 30px 10px 450px;
+	font:  25pt georgia; 
+	padding: 10px 5px 5px 5px;
 	}
 
 header h1 { 
