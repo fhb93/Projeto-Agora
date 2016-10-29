@@ -55,7 +55,13 @@ header h1 {
 	white-space: nowrap;
 	overflow: hidden;
 }
-
+.page-wrapper { 
+	background: url(AgoraLogo.png) no-repeat top left;
+	background-size: 30%; 
+	padding: 0 175px 0 110px;  
+	margin: 0; 
+	position: relative;
+	}
     .extra1 {
 	background: url(socrates.png) top left no-repeat;
 	background-size: 120%;  
