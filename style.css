@@ -111,6 +111,7 @@ header {
 .preamble {
 	clear: right; 
 	font:  16pt georgia; 
+	margin: 1px 30 10px 350px;
 	padding: 1px 30px 10px 400px;
 	}
 .supporting {	
