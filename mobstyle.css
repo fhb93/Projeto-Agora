@@ -56,21 +56,23 @@ header h1 {
 	overflow: hidden;
 }
 .page-wrapper { 
-	background: url("assets/AgoraLogo.png") no-repeat top left;
+	background-image: url("assets/AgoraLogo.png"), url("assets/socrates.png");
+	background-repeat: no-repeat, no-repeat;
+	background-position:  top left, top right;
 	background-size: 40%; 
 	padding: 80px 10px 0 10px;  
 	margin: 0; 
 	position: relative;
 	}
-    .extra1 {
-	background: url("assets/socrates.png") no-repeat top right ;
+   /* .extra1 {
+	background:  no-repeat top right ;
 	background-size: 40%;  
 	position: relative; 
 	width: 210px;
 	height: 130px;
 	padding: 80px 10px 0 10px;
 
-	}
+	}*/
 	
 /*header h2 { 
 	background: url(MadeIn.png) no-repeat top right;
