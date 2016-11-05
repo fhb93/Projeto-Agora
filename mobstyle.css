@@ -60,8 +60,8 @@ header h1 {
 	background-repeat: no-repeat, no-repeat;
 	background-position:  top left, top right;
 	/*background-size: 40%, 40%; */
-	background-width: 210px, 210px;
-	background-height: 130px, 130px;
+/*	background-width: 210px, 210px;
+	background-height: 130px, 130px;*/
 	padding: 80px 10px 0 10px;  
 	margin: 0; 
 	position: relative;
