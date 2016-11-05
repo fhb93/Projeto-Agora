@@ -55,8 +55,8 @@ header h1 {
 	overflow: hidden;
 }
 .page-wrapper { 
-	background: url("assets/AgoraLogo.png") no-repeat top left;
-	background-size: 80%; 
+	background: url("assets/AgoraLogo.png") no-repeat top center;
+	background-size: 40%; 
 	padding: 80px 10px 0 10px;  
 	margin: 0; 
 	position: relative;
