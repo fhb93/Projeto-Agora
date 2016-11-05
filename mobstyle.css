@@ -62,13 +62,13 @@ header h1 {
 	position: relative;
 	}
     .extra1 {
-	background: url("assets/socrates.png") top left no-repeat;
+	background: url("assets/socrates.png") no-repeat top right ;
 	background-size: 120%;  
-	position: absolute; 
-	top: 0px; 
-	right: 8px; 
-	width: 150px; 
-	height: 260px;
+	position: relative; 
+	width: 210px;
+	height: 130px;
+	padding: 80px 10px 0 10px;
+
 	}
 	
 /*header h2 { 
