@@ -39,10 +39,10 @@ header {
 	}
 
 header h1 { 
-	background: transparent url("assets/Title.png") no-repeat top right;
+	background: transparent url("assets/Title.png") no-repeat top center;
 	background-size: 150%;
-	padding-right: 0;
-	padding-top: 190px;
+	/*padding-right: 0;*/
+	/*padding-top: 190px;*/
 	display: inline-block;
 	width: 210px;
 	height: 130px;
@@ -59,7 +59,7 @@ header h1 {
 	background-image: url("assets/AgoraLogo.png"), url("assets/socrates.png");
 	background-repeat: no-repeat, no-repeat;
 	background-position:  top left, top right;
-	background-size: 50%, 40%; 
+	background-size: 55%, 40%; 
 /*	background-width: 210px, 210px;
 	background-height: 130px, 130px;*/
 	padding: 80px 10px 0 10px;  
