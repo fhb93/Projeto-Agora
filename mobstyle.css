@@ -26,14 +26,14 @@ header {
 	float:  center;
 	}
 .summary p {
-	font: italic 14pt georgia; 
+	font: italic 18pt georgia; 
 	text-align: center;
 	}
 .preamble {
     background: transparent;
     text-anchor: middle;
 	/*clear: right; */
-	font:  25pt georgia; 
+	font:  16pt georgia; 
 	padding: 8px 5px 5px 5px;
     float: center;
 	}
