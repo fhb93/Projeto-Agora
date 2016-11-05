@@ -40,8 +40,8 @@ header {
 
 header h1 { 
 	background: transparent url("assets/Title.png") no-repeat top right;
-	background-size: 100%;
-	margin-top: 0;
+	background-size: 70%;
+	margin-right: 0;
 	display: inline-block;
 	width: 210px;
 	height: 130px;
