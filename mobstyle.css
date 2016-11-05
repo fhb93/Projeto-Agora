@@ -39,7 +39,7 @@ header {
 	}
 
 header h1 { 
-	background: transparent url("assets/Title.png") no-repeat top center;
+	background: transparent url("assets/Title.png") no-repeat top right;
 	background-size: 100%;
 	margin-top: 0;
 	display: inline-block;
@@ -50,12 +50,12 @@ header h1 {
 	/*max-width: 100%;*/
     /*height: auto;*/
 
-	text-indent: 100%;
+	/*text-indent: 100%;*/
 	white-space: nowrap;
 	overflow: hidden;
 }
 .page-wrapper { 
-	background: url("assets/AgoraLogo.png") no-repeat top center;
+	background: url("assets/AgoraLogo.png") no-repeat top left;
 	background-size: 40%; 
 	padding: 80px 10px 0 10px;  
 	margin: 0; 
