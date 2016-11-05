@@ -48,6 +48,7 @@ header h1 {
 	width: 400px;
 	height: 150px;
 	position: relative;
+	float: center;
 	/*float: left;*/
 	/*max-width: 100%;*/
     /*height: auto;*/
