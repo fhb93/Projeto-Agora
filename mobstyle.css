@@ -21,9 +21,9 @@ header {
 }
 .summary {
 	clear: both; 
-	margin: 75px 20px 20px 60px; 
-	width: 160px; 
-	float:  center;
+	margin: 220px 20px 20px 60px; 
+	width: 200px; 
+	float: center;
 	}
 .summary p {
 	font: italic 18pt georgia; 
@@ -39,14 +39,14 @@ header {
 	}
 
 header h1 { 
-	background: transparent url("assets/Title.png") no-repeat top center;
-	background-size: 100%;
+	background: transparent url("assets/Title.png") no-repeat center;
+	background-size: 105%;
 	/*padding-right: 0;*/
 	/*padding-top: 190px;*/
-	margin-top: 80px;
+	margin-top: 185px;
 	display: inline-block;
-	width: 40px;
-	height: 140px;
+	width: 400px;
+	height: 150px;
 	position: relative;
 	/*float: left;*/
 	/*max-width: 100%;*/
