@@ -3,7 +3,7 @@ html {
 	padding: 0;
 }
 body { 
-	font: 75% georgia, sans-serif;
+	font: 50% georgia, sans-serif;
 	line-height: 1.88889;
 	color: #704214; 
 	background: #ffffff url("assets/Background2.png") no-repeat bottom;/*#C8AD7F*/
@@ -26,7 +26,7 @@ header {
 	float:  center;
 	}
 .summary p {
-	font: italic 18pt georgia; 
+	font: italic 14pt georgia; 
 	text-align: center;
 	}
 .preamble {
