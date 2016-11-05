@@ -42,6 +42,7 @@ header h1 {
 	background: transparent url("assets/Title.png") no-repeat top right;
 	background-size: 95%;
 	padding-right: 0;
+	padding-top: 140px;
 	display: inline-block;
 	width: 210px;
 	height: 130px;
@@ -63,7 +64,7 @@ header h1 {
 	}
     .extra1 {
 	background: url("assets/socrates.png") no-repeat top right ;
-	background-size: 120%;  
+	background-size: 40%;  
 	position: relative; 
 	width: 210px;
 	height: 130px;
