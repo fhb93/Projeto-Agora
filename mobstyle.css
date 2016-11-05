@@ -21,7 +21,7 @@ header {
 }
 .summary {
 	clear: both; 
-	margin: 220px 20px 20px 60px; 
+	margin: 200px 20px 20px 60px; 
 	width: 200px; 
 	float: center;
 	}
@@ -43,7 +43,7 @@ header h1 {
 	background-size: 105%;
 	/*padding-right: 0;*/
 	/*padding-top: 190px;*/
-	margin-top: 185px;
+	margin-top: 165px;
 	display: inline-block;
 	width: 400px;
 	height: 150px;
