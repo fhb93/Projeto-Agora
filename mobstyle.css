@@ -41,8 +41,8 @@ header {
 header h1 { 
 	background: transparent url("assets/Title.png") no-repeat top center;
 	background-size: 100%;
-	margin-top: 10px;
-	margin-left: 210px;
+	margin-top: 0;
+	margin-left: 10px;
 	display: inline-block;
 	width: 210px;
 	height: 130px;
@@ -58,7 +58,7 @@ header h1 {
 .page-wrapper { 
 	background: url("assets/AgoraLogo.png") no-repeat top left;
 	background-size: 80%; 
-	padding: 0 10x 0 10px;  
+	padding: 30px 10px 0 10px;  
 	margin: 0; 
 	position: relative;
 	}
