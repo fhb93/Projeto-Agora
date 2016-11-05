@@ -39,7 +39,7 @@ header {
 	}
 
 header h1 { 
-	background: transparent url(localhost:8888/assets/Title.png) no-repeat top center;
+	background: transparent url(http:/45.56.66.69/agora/assets/Title.png) no-repeat top center;
 	background-size: 100%;
 	margin-top: 10px;
 	margin-left: 210px;
@@ -56,14 +56,14 @@ header h1 {
 	overflow: hidden;
 }
 .page-wrapper { 
-	background: url(/assets/AgoraLogo.png) no-repeat top left;
+	background: url(http:/45.56.66.69/agora/assets/AgoraLogo.png) no-repeat top left;
 	background-size: 80%; 
 	padding: 0 10x 0 10px;  
 	margin: 0; 
 	position: relative;
 	}
     .extra1 {
-	background: url(/assets/socrates.png) top left no-repeat;
+	background: url(http:/45.56.66.69/agora/assets/socrates.png) top left no-repeat;
 	background-size: 120%;  
 	position: absolute; 
 	top: 0px; 
