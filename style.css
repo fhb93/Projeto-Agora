@@ -8,7 +8,7 @@ body {
 	font: 75% georgia, sans-serif;
 	line-height: 1.88889;
 	color: #704214; 
-	background: #ffffff url(assets/Background2.png) no-repeat bottom;/*#C8AD7F*/
+	background: #ffffff url("assets/Background2.png") no-repeat bottom;/*#C8AD7F*/
 	background-size: 100% 100%;  
 	margin: 0 0 0 0; 
 	padding: 0;
@@ -48,7 +48,7 @@ abbr {
 
 /* specific divs */
 .page-wrapper { 
-	background: url(assets/AgoraLogo.png) no-repeat top left;
+	background: url("assets/AgoraLogo.png") no-repeat top left;
 	background-size: 30%; 
 	padding: 0 175px 0 110px;  
 	margin: 0; 
@@ -61,7 +61,7 @@ abbr {
 	}
 
 header h1 { 
-	background: transparent url(assets/Title.png) no-repeat top center;
+	background: transparent url("assets/Title.png") no-repeat top center;
 	background-size: 100%;
 	padding-left: 20px;
 	margin-top: 20px;
@@ -79,7 +79,7 @@ header h1 {
 	overflow: hidden;
 	}
 header h2 { 
-	background: url(assets/MadeIn.png) no-repeat top right;
+	background: url("assets/MadeIn.png") no-repeat top right;
 	background-size: 55%; 
 	/*margin-top: 58px; 
 	margin-bottom: 40px;*/
@@ -198,7 +198,7 @@ footer a:link, footer a:visited {
 
 
 .extra1 {
-	background: url(assets/socrates.png) top left no-repeat;
+	background: url("assets/socrates.png") top left no-repeat;
 	background-size: 120%;  
 	position: absolute; 
 	top: 0px; 
