@@ -60,10 +60,10 @@ header h1 {
 	overflow: hidden;
 }
 .page-wrapper { 
-	background-image: url("assets/AgoraLogo.png"), url("assets/socrates.png");
+	background-image: url("mobile/LogoMobile.png"); /*, url("assets/socrates.png");*/
 	background-repeat: no-repeat, no-repeat;
 	background-position:  top left, top right;
-	background-size: 55%, 40%; 
+	background-size: 100%; 
 /*	background-width: 210px, 210px;
 	background-height: 130px, 130px;*/
 	padding: 80px 10px 0 10px;  
