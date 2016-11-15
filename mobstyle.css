@@ -39,7 +39,8 @@ header {
 	}
 
 header h1 { 
-	background: transparent url("assets/Title.png") no-repeat center;
+	/*background: transparent url("assets/Title.png") no-repeat center;*/
+	background: transparent;
 	background-size: 90%;
 	/*padding-right: 0;*/
 	/*padding-top: 190px;*/
