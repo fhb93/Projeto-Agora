@@ -27,9 +27,9 @@ $correct = array(
 <body>
 <div class="scroll">
 <form class="answer" action="Questionario.php" method="post">
-  <input type="radio" name="answer" value="Opcao1"> Opção 1  <br>
-  <input type="radio" name="answer" value="Opcao2"> Opção 2  <br>
-  <input type="radio" name="answer" value="Opcao3"> Opção 3  <br><br>
+  <input type="radio" name="answer" value="Opcao1"> Item 1  <br>
+  <input type="radio" name="answer" value="Opcao2"> Item 2  <br>
+  <input type="radio" name="answer" value="Opcao3"> Item 3  <br><br>
   <input type="submit" name="send" value="Enviar">
 </form>
 </div>
