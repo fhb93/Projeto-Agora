@@ -81,7 +81,7 @@ function test_input($data) {
 </p>
 <!--</div>-->
 <div class="btnProx"> 
- <form action="http://localhost:8888/New/Projeto-Agora/financas/financas4.html">
+ <form action="http://45.56.66.69/agora/financas/financas4.html">
     <input type="submit" name="toFinancas4" value="Próximo">
 </form>
 </div>
