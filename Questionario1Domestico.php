@@ -45,9 +45,11 @@ if ($_SERVER["REQUEST_METHOD"] == "POST")
         // $acc = $acc + 1;
         $answer = test_input($_POST["answer"]); 
     }
-    if($answer == 1) {
-      $_toQuest2.removeAttr("disabled");
-    }
+    // if($answer == 1) {
+    //    echo '<input type="submit" name="toQuest2" value="Próximo" disabled="disabled">' ;
+    
+    // }
+    
 }
 
 function test_input($data) {
@@ -90,7 +92,7 @@ function test_input($data) {
 
 <div class="btnProx"> 
  <form action="http://45.56.66.69/agora/Questionario2Domestico.php">
-    <input type="submit" name="toQuest2" value="Próximo" disabled="disabled">
+    <input type="submit" <?php if ($answer != '1'){ ?> disabled="disabled" <?php   } ?> name="toQuest2" value="Próximo" >
 </form>
 </div>
 
