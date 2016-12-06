@@ -90,7 +90,7 @@ Planejamento -> Avaliação -> Registro -> Agrupamento
 <!--</div>-->
 <div class="btnProx"> 
  <form action="http://45.56.66.69/agora/financas/financas3.html">
-    <input type="submit" name="toFinancas2" value="Próximo">
+    <input type="submit" name="toFinancas2" value="Próximo" <?php if ($answer != '3'){ ?> disabled="disabled" <?php   } ?> >
 </form>
 </div>
 <!--<div class="btnProx"> 

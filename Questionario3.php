@@ -82,7 +82,7 @@ function test_input($data) {
 <!--</div>-->
 <div class="btnProx"> 
  <form action="http://45.56.66.69/agora/financas/financas4.html">
-    <input type="submit" name="toFinancas4" value="Próximo">
+    <input type="submit" name="toFinancas4" value="Próximo" <?php if ($answer != '1'){ ?> disabled="disabled" <?php   } ?> >
 </form>
 </div>
 <!--<div class="btnProx"> 
