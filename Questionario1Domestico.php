@@ -45,6 +45,9 @@ if ($_SERVER["REQUEST_METHOD"] == "POST")
         // $acc = $acc + 1;
         $answer = test_input($_POST["answer"]); 
     }
+    if($answer == 1) {
+      $_('toQuest2').removeAttr('disabled');
+    }
 }
 
 function test_input($data) {
