@@ -86,7 +86,7 @@ function test_input($data) {
 
 
 <div class="btnProx"> 
- <form action="http://45.56.66.69/agora/Questionario2Domestico.html">
+ <form action="http://45.56.66.69/agora/Questionario2Domestico.php">
     <input type="submit" name="toQuest2" value="Próximo">
 </form>
 </div>
