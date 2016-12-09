@@ -17,7 +17,7 @@ p { font-size: 15pt; padding-left: 5%; padding-top: -20px; padding-right: 10%;}
 
 <body>
 <div class="scroll">
-<form class="answer" action="QuestionarioSaude1.php" method="post">
+<form class="answer" action="QuestionarioSaude2.php" method="post">
   <input type="radio" name="answer" value="1"> Opção 1  <br>
   <input type="radio" name="answer" value="2"> Opção 2  <br>
   <input type="radio" name="answer" value="3"> Opção 3  <br>
