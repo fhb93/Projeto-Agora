@@ -16,6 +16,16 @@ p { font-size: 15pt; padding-left: 5%; padding-top: -20px; padding-right: 10%;}
 </head>
 
 <body>
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-76407240-3', 'auto');
+  ga('send', 'pageview');
+
+</script>
 <div class="scroll">
 <form class="answer" action="Questionario1Domestico.php" method="post">
   <input type="radio" name="answer" value="1"> Opção 1  <br>
