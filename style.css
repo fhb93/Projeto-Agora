@@ -209,7 +209,7 @@ footer a:link, footer a:visited {
 
 
 .extra1 {
-	background: url("assets/socrates.png") top left no-repeat;
+	background: url(assets/socrates.png) top left no-repeat;
 	background-size: 120%;  
 	position: absolute; 
 	top: 0px; 
