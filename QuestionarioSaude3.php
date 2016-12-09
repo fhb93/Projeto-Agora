@@ -85,7 +85,7 @@ function test_input($data) {
 
 
 <div class="btnProx"> 
- <form action="http://45.56.66.69/agora/QuestionarioSaude4.html">
+ <form action="http://45.56.66.69/agora/QuestionarioSaude4.php">
     <input type="submit" name="toQuestSaude4" value="Próximo" <?php if ($answer != '3'){ ?> disabled="disabled" <?php   } ?> >
 </form>
 </div>
